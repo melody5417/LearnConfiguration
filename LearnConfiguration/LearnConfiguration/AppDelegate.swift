@@ -6,12 +6,6 @@
 //  Copyright © 2017年 melody5417. All rights reserved.
 //
 
-/**
- https://medium.com/@danielgalasko/run-multiple-versions-of-your-app-on-the-same-device-using-xcode-configurations-1fd3a220c608
- https://medium.com/@danielgalasko/change-your-api-endpoint-environment-using-xcode-configurations-in-swift-c1ad2722200e
- http://www.jianshu.com/p/51a2bbe877aa
- */
-
 import UIKit
 
 @UIApplicationMain

@@ -6,10 +6,6 @@
 //  Copyright © 2017年 melody5417. All rights reserved.
 //
 
-/**
- https://cocoacasts.com/switching-environments-with-configurations/
- */
-
 import Foundation
 import UIKit
 
